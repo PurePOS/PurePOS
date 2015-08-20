@@ -1757,8 +1757,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a PurePOS address (e.g. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Introdueix una adreça PurePOS (p.ex. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>Enter a PurePOS address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <translation>Introdueix una adreça PurePOS (p.ex. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1901,8 +1901,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>L&apos;adreça per a enviar el pagament (per exemple: TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>The address to send the payment to  (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <translation>L&apos;adreça per a enviar el pagament (per exemple: PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1931,8 +1931,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a PurePOS address (e.g. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Introdueix una adreça PurePOS (p.ex. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>Enter a PurePOS address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <translation>Introdueix una adreça PurePOS (p.ex. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
     </message>
 </context>
 <context>
@@ -1955,8 +1955,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>L&apos;adreça per a signar el missatge (per exemple TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>The address to sign the message with (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <translation>L&apos;adreça per a signar el missatge (per exemple PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2019,8 +2019,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>La direcció que va ser signada amb un missatge (per exemple TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>The address the message was signed with (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <translation>La direcció que va ser signada amb un missatge (per exemple PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a PurePOS address (e.g. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Introdueix una adreça PurePOS (p.ex. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>Enter a PurePOS address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <translation>Introdueix una adreça PurePOS (p.ex. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
     </message>
     <message>
         <location line="-2"/>

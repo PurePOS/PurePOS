@@ -1764,8 +1764,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a PurePOS address (e.g. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Syötä PurePOS-osoite (esim. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>Enter a PurePOS address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <translation>Syötä PurePOS-osoite (esim. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1908,8 +1908,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Osoite, johon maksu lähetetään (esim. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>The address to send the payment to  (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <translation>Osoite, johon maksu lähetetään (esim. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1938,8 +1938,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a PurePOS address (e.g. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Syötä PurePOS-osoite (esim. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>Enter a PurePOS address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <translation>Syötä PurePOS-osoite (esim. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
     </message>
 </context>
 <context>
@@ -1962,8 +1962,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Osoite, jolle viesti kirjataan (esim. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>The address to sign the message with (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <translation>Osoite, jolle viesti kirjataan (esim. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2026,8 +2026,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Osoite, jolla viesti on allekirjoitettu (esim. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm) </translation>
+        <source>The address the message was signed with (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <translation>Osoite, jolla viesti on allekirjoitettu (esim. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm) </translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2042,8 +2042,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a PurePOS address (e.g. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Syötä PurePOS-osoite (esim. TXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>Enter a PurePOS address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <translation>Syötä PurePOS-osoite (esim. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
     </message>
     <message>
         <location line="-2"/>
