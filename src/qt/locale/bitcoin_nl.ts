@@ -560,22 +560,22 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+6"/>
         <source>Not staking because wallet is locked</source>
-        <translation>Niet staking omdat portemonnee aan het beveiligd is</translation>
+        <translation>Niet aan het staken omdat portemonnee beveiligd is</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is offline</source>
-        <translation>Niet staking omdat portemonnee aan het offline is</translation>
+        <translation>Niet aan het staken omdat portemonnee offline is</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is syncing</source>
-        <translation>Niet staking omdat portemonnee aan het synchroniseren is.</translation>
+        <translation>Niet aan het staken omdat je portemonnee aan het synchroniseren is.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because you don&apos;t have mature coins</source>
-        <translation>Niet staking omdat je geen mature munten hebt</translation>
+        <translation>Niet aan het staken omdat je geen rijpe munten hebt</translation>
     </message>
     <message numerus="yes">
         <location line="-403"/>
