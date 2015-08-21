@@ -39,7 +39,7 @@ static const int64_t MIN_TX_FEE = 1000;
 static const int64_t MIN_RELAY_TX_FEE = MIN_TX_FEE;
 static const int64_t MAX_MONEY = 400000000 * COIN;
 
-//25% POS interest annually
+//75% POS interest annually
 static const int64_t COIN_YEAR_REWARD = 750 * CENT;
 static const int64_t MAX_MINT_PROOF_OF_STAKE = 75 * COIN;
 
